@@ -3,7 +3,7 @@
     "DefaultConnection": "YOUR_DATABASE_CONNECTION_STRING"
   },
   "Jwt": {
-    "Key": "YOUR_JWT_SECRET_KEY",
+    "Key": "YOUR_JWT_SECRET_KEY_12345",
     "Issuer": "YOUR_ISSUER",
     "Audience": "YOUR_AUDIENCE"
   },
